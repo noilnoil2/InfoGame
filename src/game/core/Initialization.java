@@ -33,7 +33,7 @@ public class Initialization {
 		
 		System.out.println("Size: " + Var.FrameWidth + "x" + Var.FrameHeight + "; FPS: " + Var.fps);
 		
-		loadFont();
+		loadFont2();
 		
 		createGameObjects();
 		
